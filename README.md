@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola, soy José Daniel Rodriguez Chong! 👋
 
-<!--
-**Chonny8701/chonny8701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado programador fullstack con experiencia en una amplia gama de tecnologías web. Mi objetivo es crear aplicaciones web impactantes y funcionales que brinden una experiencia de usuario excepcional.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, SCSS, Bootstrap, JavaScript, React
+- **Backend:** Node.js, Express, Python, Flask
+- **Bases de Datos:** MongoDB, MySQL
+- **Fullstack:** Desarrollo completo de aplicaciones web desde el frontend hasta el backend.
+
+## Proyectos Destacados
+
+- 🚀 [Proyecto 1](Enlace al Proyecto 1): Breve descripción y logros.
+- 🌐 [Proyecto 2](Enlace al Proyecto 2): Breve descripción y logros.
+
+## Contacto
+
+¡Me encantaría conectar contigo! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-daniel-rodr%C3%ADguez-chong-077485161/)
+
+¡Gracias por visitar mi perfil! 😊
+
